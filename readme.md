@@ -1,6 +1,3 @@
-Here’s an enhanced version of your `README.md` for the **pytrader** project, with better structure, icons, and some animation effects to improve the user experience and make it visually appealing.
-
-```markdown
 # pytrader 🤖💰
 
 [![Build Status](https://travis-ci.org/owocki/pytrader.svg?branch=master)](https://travis-ci.org/owocki/pytrader)
